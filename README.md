@@ -1,9 +1,27 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
-![Shoppy](https://i.ibb.co/W6g39w3/image.png)
+# Shoppy Dashboard App
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
+[live Site](https://a-shoppy-dashboard-app.netlify.app/)
 
-If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+![Shoppy App](/preview-1.png)
+![Shoppy App](/preview-2.png)
+![Shoppy App](/preview-3.png)
+![Shoppy App](/preview-4.png)
+![Shoppy App](/preview-5.png)
+![Shoppy App](/preview-6.png)
+![Shoppy App](/preview-7.png)
+![Shoppy App](/preview-8.png)
+![Shoppy App](/preview-9.png)
+![Shoppy App](/preview-10.png)
+![Shoppy App](/preview-11.png)
+![Shoppy App](/preview-12.png)
+![Shoppy App](/preview-13.png)
+![Shoppy App](/preview-14.png)
+![Shoppy App](/preview-15.png)
+![Shoppy App](/preview-16.png)
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+This is the code repo of Shoppy Dashboard App. There I used:
+
+- [React](https://react.dev/)
+- [React Router](https://reactrouter.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Syncfusion](https://www.syncfusion.com/)
